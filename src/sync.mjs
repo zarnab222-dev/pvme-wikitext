@@ -14,8 +14,8 @@ import { diff3Merge } from 'node-diff3';
  *   synced       the page equals what the guide generates now
  *   pvme-ahead   only PvME changed: publish the generated text
  *   wiki-edited  only the wiki changed: offer those edits to PvME
- *   mergeable    both changed different lines: publish the merge, offer the wiki edits to PvME
- *   conflict     both changed the same lines: a person decides
+ *   mergeable    both changed, with an untouched line between: publish the merge, offer the wiki edits to PvME
+ *   conflict     both changed the same or adjacent lines: a person decides
  *   removed      the page is stamped but PvME no longer has the guide
  *
  * @typedef {{file: string, commit: string, body: string}} Stamp

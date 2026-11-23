@@ -4,7 +4,7 @@
 //   report.json       every page's state
 //   report.md         the same for people
 //   publish/          page text ready to paste: new pages, PvME updates, clean merges
-//   conflicts/        pages both sides changed on the same lines, with conflict markers
+//   conflicts/        pages both sides changed on the same or adjacent lines, with conflict markers
 //   for-pvme/         wiki edits as a list of guide lines to change upstream
 import { mkdirSync, rmSync, writeFileSync } from 'node:fs';
 import path from 'node:path';

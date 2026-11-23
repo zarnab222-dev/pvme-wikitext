@@ -58,8 +58,8 @@ or by converting the stamped commit again, and compares it with both sides:
 | `synced` | nothing | none |
 | `pvme-ahead` | the guide | publish the generated page |
 | `wiki-edited` | the wiki page | offer the edits to PvME |
-| `mergeable` | both, on different lines | publish the merge, offer the edits to PvME |
-| `conflict` | both, on the same lines | a person chooses |
+| `mergeable` | both, with an untouched line between the edits | publish the merge, offer the edits to PvME |
+| `conflict` | both, on the same or adjacent lines | a person chooses |
 | `unmanaged` | the page has no stamp | compare by hand |
 | `unpublished` | the wiki has no page | publish the generated page |
 | `moved`, `removed` | the guide was renamed or deleted | move or retire the page |

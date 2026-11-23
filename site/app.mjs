@@ -46,7 +46,7 @@ const STATES = {
     'pvme-ahead': ['→', 'pvme ahead', 'Only pvme changed. Publish the generated page.'],
     'wiki-edited': ['←', 'wiki ahead', 'Only the wiki changed. Offer these edits to pvme.'],
     mergeable: ['⇄', 'both changed, merges', 'Publish the merge and offer the wiki edits to pvme.'],
-    conflict: ['✕', 'both changed, conflict', 'Both sides changed the same lines. Choose a version for each.'],
+    conflict: ['✕', 'both changed, conflict', 'Both sides changed the same or adjacent lines. Choose a version for each.'],
 };
 
 const wiki = createWikiReader(WIKI + '/api.php');
