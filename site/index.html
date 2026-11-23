@@ -12,7 +12,8 @@
 <link rel="icon" href="/favicon.svg" type="image/svg+xml">
 <link rel="stylesheet" href="{{STYLE}}">
 <link rel="preload" href="{{TABLES}}" as="fetch" crossorigin>
-<script type="module" src="{{SCRIPT}}"></script>
+<!-- For a few seconds during a deploy the page can name a script the server does not have yet. -->
+<script type="module" src="{{SCRIPT}}" onerror="setTimeout(() => location.reload(), 3000)"></script>
 </head>
 <body data-tables="{{TABLES}}" data-presets="{{PRESETS}}">
 <aside id="rail">
