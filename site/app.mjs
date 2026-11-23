@@ -17,11 +17,26 @@ const remembered = {
     get(key) { try { return localStorage.getItem(key); } catch { return null; } },
     set(key, value) { try { localStorage.setItem(key, value); } catch { /* a convenience only */ } },
 };
-async function load(url, kind) {
-    const response = await fetch(url);
-    if (!response.ok) throw new Error(`${url} answered ${response.status}`);
-    return response[kind]();
+const LOAD_ATTEMPTS = 3;
+async function load(url, kind, attempt = 1) {
+    try {
+        const response = await fetch(url);
+        if (!response.ok) throw new Error(`${url} answered ${response.status}`);
+        return await response[kind]();
+    } catch (error) {
+        if (attempt === LOAD_ATTEMPTS) throw error;
+        await new Promise(resolve => setTimeout(resolve, 500 * attempt));
+        return load(url, kind, attempt + 1);
+    }
 }
+// A dropped connection, or a deploy between loading the page and its files, must not leave the page stuck on "loading".
+function showLoadFailure() {
+    if (!$('copy').disabled) return;
+    $('title').textContent = 'could not load the guides';
+    $('status').replaceChildren(el('button', { type: 'button', textContent: 'reload', onclick: () => location.reload() }));
+}
+addEventListener('unhandledrejection', showLoadFailure);
+addEventListener('error', showLoadFailure);
 
 // Symbol and wording both carry the state, so nothing depends on colour.
 const STATES = {
