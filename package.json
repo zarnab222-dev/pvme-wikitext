@@ -5,7 +5,7 @@
   "description": "PvME guide text to RuneScape Wiki wikitext, through @pvme/guide-parser",
   "type": "module",
   "engines": {
-    "node": ">=22"
+    "node": "24.x"
   },
   "bin": {
     "pvme-wikitext": "scripts/cli.mjs"

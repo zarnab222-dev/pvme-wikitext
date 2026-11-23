@@ -10,7 +10,7 @@ The site shows every guide's source, parse tree, wikitext and runescape.wiki ren
 
 ## Convert
 
-Requires Node 22+ and git.
+Requires Node 24 and git.
 
 ```sh
 npm ci
