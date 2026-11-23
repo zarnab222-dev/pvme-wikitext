@@ -155,6 +155,9 @@ function scheduleRender() {
     clearTimeout(renderTimer);
     if (isShown('preview') && current && current.content !== rendered) renderTimer = setTimeout(render, RENDER_DELAY_MS);
 }
+/** The sandboxed render cannot run players, so a video shows as its thumbnail. */
+const stillVideos = html => html.replace(/<iframe[^>]*?youtube(?:-nocookie)?[.]com[/]embed[/]([a-zA-Z0-9_-]{11})[^>]*>(?:<[/]iframe>)?/g,
+    (_, id) => `<a href="https://www.youtube.com/watch?v=${id}"><img src="https://i.ytimg.com/vi/${id}/hqdefault.jpg" alt="video" width="400"></a>`);
 async function render() {
     const { content } = current;
     $('preview-note').textContent = 'rendering on runescape.wiki…';
@@ -164,7 +167,7 @@ async function render() {
         rendered = content;
         $('render').srcdoc = `<!doctype html><base href="${WIKI}/" target="_blank"><meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="${WIKI_STYLES}"><style>html,body{background:#fff;color:#222;height:auto}body{margin:0;padding:16px;font:14px/1.6 system-ui,sans-serif}.mw-parser-output{max-width:100%;overflow-wrap:anywhere}img,iframe{max-width:100%}img{height:auto}</style>
-<div class="mw-body-content mw-content-ltr"><h1>${$('title').textContent.replace(/&/g, '&amp;').replace(/</g, '&lt;')}</h1>${text}</div>`;
+<div class="mw-body-content mw-content-ltr"><h1>${$('title').textContent.replace(/&/g, '&amp;').replace(/</g, '&lt;')}</h1>${stillVideos(text)}</div>`;
         $('preview-note').textContent = parsewarnings.length ? parsewarnings.join(' ') : '';
     } catch (error) {
         $('preview-note').textContent = `runescape.wiki could not render this (${error.message}). Try again by editing or reopening the guide.`;
