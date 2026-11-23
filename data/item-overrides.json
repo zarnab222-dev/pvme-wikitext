@@ -1,0 +1,1701 @@
+{
+ "edracocoif": {
+  "name": "Elite Dracolich Coif",
+  "page": "Elite Dracolich coif",
+  "file": "Elite Dracolich coif.png",
+  "reviewed": true
+ },
+ "eofpink": {
+  "name": "EoF (pink)",
+  "page": "Essence of Finality amulet",
+  "file": "Essence of Finality amulet.png",
+  "reviewed": true
+ },
+ "edracochaps": {
+  "name": "Elite Dracolich Chaps",
+  "page": "Elite Dracolich chaps",
+  "file": "Elite Dracolich chaps.png",
+  "reviewed": true
+ },
+ "eofpurpleunorn": {
+  "name": "EoF (purple)",
+  "page": "Essence of Finality amulet",
+  "file": "Essence of Finality amulet.png",
+  "reviewed": true
+ },
+ "sara": {
+  "name": "Saradomin brew flask (6)",
+  "page": "Saradomin brew flask",
+  "file": "Saradomin brew flask.png",
+  "reviewed": true
+ },
+ "vulnbombs": {
+  "name": "Vulnerabilty bombs",
+  "page": "Vulnerability bomb",
+  "file": "Vulnerability bomb.png",
+  "reviewed": true
+ },
+ "kalgdemon": {
+  "name": "kalgdemon",
+  "page": "Binding contract (kal'gerion demon)",
+  "file": "Binding contract (kal'gerion demon).png",
+  "reviewed": true
+ },
+ "vampyrismaspect": {
+  "name": "Vampyrism (aspect)",
+  "page": "Vampyrism",
+  "file": "Vampyrism.png",
+  "reviewed": true
+ },
+ "prayrenewal": {
+  "name": "Super prayer renewal potion (6)",
+  "page": "Super prayer renewal potion",
+  "file": "Super prayer renewal potion.png",
+  "reviewed": true
+ },
+ "renewal4": {
+  "name": "Adrenaline renewal potion (4)",
+  "page": "Adrenaline renewal potion",
+  "file": "Adrenaline renewal potion.png",
+  "reviewed": true
+ },
+ "vitality4": {
+  "name": "Powerburst of vitality (4)",
+  "page": "Powerburst of vitality",
+  "file": "Powerburst of vitality.png",
+  "reviewed": true
+ },
+ "eofredunorn": {
+  "name": "EoF (red)",
+  "page": "Essence of Finality amulet",
+  "file": "Essence of Finality amulet.png",
+  "reviewed": true
+ },
+ "eofred": {
+  "name": "EoF (red)",
+  "page": "Essence of Finality amulet",
+  "file": "Essence of Finality amulet.png",
+  "reviewed": true
+ },
+ "gbrew": {
+  "name": "Super Guthix brew flask (6)",
+  "page": "Super Guthix brew flask",
+  "file": "Super Guthix brew flask.png",
+  "reviewed": true
+ },
+ "accel1": {
+  "name": "Powerburst of acceleration (1)",
+  "page": "Powerburst of acceleration",
+  "file": "Powerburst of acceleration.png",
+  "reviewed": true
+ },
+ "occulistsring": {
+  "name": "Occulist's Ring",
+  "page": "Occultist's ring",
+  "file": "Occultist's ring.png",
+  "reviewed": true
+ },
+ "eoforblack": {
+  "name": "EoF (or)(black)",
+  "page": "Essence of Finality amulet (or)",
+  "file": "Essence of Finality amulet (or).png",
+  "reviewed": true
+ },
+ "accel4": {
+  "name": "Powerburst of acceleration (4)",
+  "page": "Powerburst of acceleration",
+  "file": "Powerburst of acceleration.png",
+  "reviewed": true
+ },
+ "defencecape": {
+  "name": "Defence cape (t)",
+  "page": "Defence cape",
+  "file": "Defence cape.png",
+  "reviewed": true
+ },
+ "extdefence": {
+  "name": "Extreme defence (4)",
+  "page": "Extreme defence",
+  "file": "Extreme defence.png",
+  "reviewed": true
+ },
+ "extmagic": {
+  "name": "Extreme magic (4)",
+  "page": "Extreme magic",
+  "file": "Extreme magic.png",
+  "reviewed": true
+ },
+ "restore4": {
+  "name": "Super restore (4)",
+  "page": "Super restore",
+  "file": "Super restore.png",
+  "reviewed": true
+ },
+ "chaosrune1k": {
+  "name": "Chaos rune (stack)",
+  "page": "Chaos rune",
+  "file": "Chaos rune.png",
+  "reviewed": true
+ },
+ "airrune1k": {
+  "name": "Air rune (stack)",
+  "page": "Air rune",
+  "file": "Air rune.png",
+  "reviewed": true
+ },
+ "soulrune1k": {
+  "name": "Soul rune (stack)",
+  "page": "Soul rune",
+  "file": "Soul rune.png",
+  "reviewed": true
+ },
+ "bunyip": {
+  "name": "Bunyip",
+  "page": "Bunyip",
+  "file": "Bunyip.png",
+  "reviewed": true
+ },
+ "pernixgloves": {
+  "name": "Pernix Gloves",
+  "page": "Pernix gloves",
+  "file": "Pernix gloves.png",
+  "reviewed": true
+ },
+ "extrange": {
+  "name": "Extreme ranging (4)",
+  "page": "Extreme ranging",
+  "file": "Extreme ranging.png",
+  "reviewed": true
+ },
+ "extstrength": {
+  "name": "Extreme strength (4)",
+  "page": "Extreme strength",
+  "file": "Extreme strength.png",
+  "reviewed": true
+ },
+ "deathdealerhoodt70": {
+  "name": "Deathdealer hood (tier 70)",
+  "page": "Deathdealer hood (tier 70)",
+  "file": "Deathdealer hood (tier 70).png",
+  "reviewed": true
+ },
+ "deathdealerrobetopt70": {
+  "name": "Deathdealer robe top (tier 70)",
+  "page": "Deathdealer robe top (tier 70)",
+  "file": "Deathdealer robe top (tier 70).png",
+  "reviewed": true
+ },
+ "deathdealerrobebottomt70": {
+  "name": "Deathdealer robe bottom (tier 70)",
+  "page": "Deathdealer robe bottom (tier 70)",
+  "file": "Deathdealer robe bottom (tier 70).png",
+  "reviewed": true
+ },
+ "deathdealerglovest70": {
+  "name": "Deathdealer gloves (tier 70)",
+  "page": "Deathdealer gloves (tier 70)",
+  "file": "Deathdealer gloves (tier 70).png",
+  "reviewed": true
+ },
+ "deathdealerbootst70": {
+  "name": "Deathdealer boots (tier 70)",
+  "page": "Deathdealer boots (tier 70)",
+  "file": "Deathdealer boots (tier 70).png",
+  "reviewed": true
+ },
+ "extnecro": {
+  "name": "Extreme necromancy (4)",
+  "page": "Extreme necromancy",
+  "file": "Extreme necromancy.png",
+  "reviewed": true
+ },
+ "notepaperstack": {
+  "name": "Magic notepaper (stack)",
+  "page": "Magic notepaper",
+  "file": "Magic notepaper.png",
+  "reviewed": true
+ },
+ "legendpetscav": {
+  "name": "Legendary Pet (Scavenge)",
+  "page": "Legendary pet",
+  "file": null,
+  "reviewed": true
+ },
+ "potionreservoir2": {
+  "name": "Potion reservoir (inactive)",
+  "page": "Potion reservoir",
+  "file": "Potion reservoir.png",
+  "reviewed": true
+ },
+ "kwuarmsticks100": {
+  "name": "Kwuarm incense sticks (stack of 100)",
+  "page": "Kwuarm incense sticks",
+  "file": "Kwuarm incense sticks.png",
+  "reviewed": true
+ },
+ "lantadymesticks100": {
+  "name": "Lantadyme incense sticks (stack)",
+  "page": "Lantadyme incense sticks",
+  "file": "Lantadyme incense sticks.png",
+  "reviewed": true
+ },
+ "poison6": {
+  "name": "Weapon poison+++ flask (6)",
+  "page": "Weapon poison+++ flask",
+  "file": "Weapon poison+++ flask.png",
+  "reviewed": true
+ },
+ "deathdealerhoodt90": {
+  "name": "Deathdealer hood (tier 90)",
+  "page": "Deathdealer hood (tier 90)",
+  "file": "Deathdealer hood (tier 90).png",
+  "reviewed": true
+ },
+ "deathdealerrobetopt90": {
+  "name": "Deathdealer robe top (tier 90)",
+  "page": "Deathdealer robe top (tier 90)",
+  "file": "Deathdealer robe top (tier 90).png",
+  "reviewed": true
+ },
+ "deathdealerrobebottomt90": {
+  "name": "Deathdealer robe bottom (tier 90)",
+  "page": "Deathdealer robe bottom (tier 90)",
+  "file": "Deathdealer robe bottom (tier 90).png",
+  "reviewed": true
+ },
+ "deathdealerbootst90": {
+  "name": "Deathdealer boots (tier 90)",
+  "page": "Deathdealer boots (tier 90)",
+  "file": "Deathdealer boots (tier 90).png",
+  "reviewed": true
+ },
+ "deathdealerglovest90": {
+  "name": "Deathdealer gloves (tier 90)",
+  "page": "Deathdealer gloves (tier 90)",
+  "file": "Deathdealer gloves (tier 90).png",
+  "reviewed": true
+ },
+ "ripperdemon": {
+  "name": "Ripper Demon (slayer)",
+  "page": "Ripper Demon",
+  "file": "Ripper Demon icon.png",
+  "reviewed": true
+ },
+ "eofor": {
+  "name": "EoF (or)",
+  "page": "Essence of Finality amulet (or)",
+  "file": "Essence of Finality amulet (or).png",
+  "reviewed": true
+ },
+ "cryptbloomlegs": {
+  "name": "Cryptbloom legs",
+  "page": "Cryptbloom bottoms",
+  "file": "Cryptbloom bottoms.png",
+  "reviewed": true
+ },
+ "poison4": {
+  "name": "Weapon poison+++ (4)",
+  "page": "Weapon poison+++",
+  "file": "Weapon poison+++.png",
+  "reviewed": true
+ },
+ "poison1": {
+  "name": "Weapon poison+++ (1)",
+  "page": "Weapon poison+++",
+  "file": "Weapon poison+++.png",
+  "reviewed": true
+ },
+ "chins": {
+  "name": "chins",
+  "page": "Chinchompa",
+  "file": "Chinchompa.png",
+  "reviewed": true
+ },
+ "ohasc": {
+  "name": "Off-hand ascension Crossbow",
+  "page": "Off-hand ascension crossbow",
+  "file": "Off-hand ascension crossbow.png",
+  "reviewed": true
+ },
+ "bloodreaver": {
+  "name": "Blood reaver (slayer)",
+  "page": "Blood reaver",
+  "file": "Blood reaver.png",
+  "reviewed": true
+ },
+ "platebodyoftrials": {
+  "name": "Platebody of Trials",
+  "page": "Platebody of Trials",
+  "file": "Platebody of Trials.png",
+  "reviewed": true
+ },
+ "ghostlegs": {
+  "name": "Ghost hunter legs",
+  "page": "Ghost hunter legs",
+  "file": "Ghost hunter legs.png",
+  "reviewed": true
+ },
+ "bracersoftrials": {
+  "name": "Bracers of Trials",
+  "page": "Bracers of Trials",
+  "file": "Bracers of Trials.png",
+  "reviewed": true
+ },
+ "shboots": {
+  "name": "Silverhawk boots",
+  "page": "Silverhawk boots",
+  "file": "Silverhawk boots.png",
+  "reviewed": true
+ },
+ "lunarhelm": {
+  "name": "Lunar helm",
+  "page": "Lunar helm",
+  "file": "Lunar helm.png",
+  "reviewed": true
+ },
+ "godcape": {
+  "name": "Guthix or Saradomin or Zamorak cape",
+  "page": "Guthix cape",
+  "file": "Guthix cape.png",
+  "reviewed": true
+ },
+ "vanquish": {
+  "name": "vanquish",
+  "page": "Vanquish",
+  "file": null,
+  "reviewed": true
+ },
+ "lunartorso": {
+  "name": "Lunar torso",
+  "page": "Lunar torso",
+  "file": "Lunar torso.png",
+  "reviewed": true
+ },
+ "lunarlegs": {
+  "name": "Lunar legs",
+  "page": "Lunar legs",
+  "file": "Lunar legs.png",
+  "reviewed": true
+ },
+ "lunargloves": {
+  "name": "Lunar gloves",
+  "page": "Lunar gloves",
+  "file": "Lunar gloves.png",
+  "reviewed": true
+ },
+ "lunarboots": {
+  "name": "Lunar boots",
+  "page": "Lunar boots",
+  "file": "Lunar boots.png",
+  "reviewed": true
+ },
+ "bandosgodbook2": {
+  "name": "Book of war",
+  "page": "Bandos's Book of War",
+  "file": "Bandos's Book of War.png",
+  "reviewed": true
+ },
+ "spiritual": {
+  "name": "Spiritual prayer (6)",
+  "page": "Spiritual prayer potion",
+  "file": "Spiritual prayer potion (6).png",
+  "reviewed": true
+ },
+ "renewal6": {
+  "name": "Adrenaline renewal flask (6)",
+  "page": "Adrenaline renewal flask",
+  "file": "Adrenaline renewal flask.png",
+  "reviewed": true
+ },
+ "superiorleviathanring": {
+  "name": "Superior leviathan ring",
+  "page": "Superior leviathan ring",
+  "file": "Superior leviathan ring.png",
+  "reviewed": true
+ },
+ "eofpurple": {
+  "name": "EoF (purple)",
+  "page": "Essence of Finality amulet",
+  "file": "Essence of Finality amulet.png",
+  "reviewed": true
+ },
+ "ogreflasksaltwater": {
+  "name": "Ogre flask (salt water) (6)",
+  "page": "Ogre flask (salt water)",
+  "file": "Ogre flask (salt water).png",
+  "reviewed": true
+ },
+ "rangecape": {
+  "name": "Ranged cape (t)",
+  "page": "Ranged cape",
+  "file": "Ranged cape.png",
+  "reviewed": true
+ },
+ "nightmare": {
+  "name": "Nightmare gauntlets",
+  "page": "Nightmare gauntlets",
+  "file": "Nightmare gauntlets.png",
+  "reviewed": true,
+  "why": "PvME preset id; always in the gloves slot, registry has no entry so it fell back to the NPC article"
+ },
+ "rangeshield": {
+  "name": "Vengful kiteshield",
+  "page": "Vengeful kiteshield",
+  "file": "Vengeful kiteshield.png",
+  "reviewed": true
+ },
+ "flank": {
+  "name": "Flanking perk",
+  "page": "Flanking",
+  "file": "Flanking.png",
+  "reviewed": true
+ },
+ "ringoffortune": {
+  "name": "Ring of Fortune",
+  "page": "Ring of Fortune",
+  "file": "Ring of Fortune.png",
+  "reviewed": true
+ },
+ "cballs": {
+  "name": "Cannonballs",
+  "page": "Cannonball",
+  "file": "Cannonball.png",
+  "reviewed": true
+ },
+ "dridercape": {
+  "name": "Dragon Rider cape",
+  "page": "Dragon Rider cape",
+  "file": "Dragon Rider cape.png",
+  "reviewed": true
+ },
+ "saragodbook": {
+  "name": "Illuminated Book of Wisdom",
+  "page": "Illuminated Book of Wisdom",
+  "file": "Illuminated Book of Wisdom.png",
+  "reviewed": true
+ },
+ "luckofthedwarves": {
+  "name": "Luck of the Dwarves (Relic)",
+  "page": "Luck of the Dwarves",
+  "file": "Luck of the Dwarves.png",
+  "reviewed": true
+ },
+ "superiorspinedhelm": {
+  "name": "Superior spined helm",
+  "page": "Superior spined helm",
+  "file": "Superior spined helm.png",
+  "reviewed": true
+ },
+ "capeoflegends": {
+  "name": "Cape of legends",
+  "page": "Cape of legends",
+  "file": "Cape of legends.png",
+  "reviewed": true
+ },
+ "amuletofglory": {
+  "name": "Amulet of glory",
+  "page": "Amulet of glory",
+  "file": "Amulet of glory.png",
+  "reviewed": true
+ },
+ "superiorspinedbody": {
+  "name": "Superior spined body",
+  "page": "Superior spined body",
+  "file": "Superior spined body.png",
+  "reviewed": true
+ },
+ "superiorspinedchaps": {
+  "name": "Superior spined chaps",
+  "page": "Superior spined chaps",
+  "file": "Superior spined chaps.png",
+  "reviewed": true
+ },
+ "superiorspinedgloves": {
+  "name": "Superior spined gloves",
+  "page": "Superior spined gloves",
+  "file": "Superior spined gloves.png",
+  "reviewed": true
+ },
+ "superiorspinedboots": {
+  "name": "Superior spined boots",
+  "page": "Superior spined boots",
+  "file": "Superior spined boots.png",
+  "reviewed": true
+ },
+ "armagodbook2": {
+  "name": "Book of law",
+  "page": "Armadyl's Book of Law",
+  "file": "Armadyl's Book of Law.png",
+  "reviewed": true
+ },
+ "summerpie": {
+  "name": "Summer pie",
+  "page": "Summer pie",
+  "file": "Summer pie.png",
+  "reviewed": true
+ },
+ "shark": {
+  "name": "Shark",
+  "page": "Shark",
+  "file": "Shark.png",
+  "reviewed": true
+ },
+ "powderofpenance2": {
+  "name": "Powder of penance (stack)",
+  "page": "Powder of penance",
+  "file": "Powder of penance.png",
+  "reviewed": true
+ },
+ "imcandohatchet": {
+  "name": "Imcando hatchet",
+  "page": "Imcando hatchet",
+  "file": "Imcando hatchet.png",
+  "reviewed": true
+ },
+ "naturessentinelchest": {
+  "name": "Nature's sentinel chest",
+  "page": "Nature's sentinel chest",
+  "file": "Nature's sentinel chest.png",
+  "reviewed": true
+ },
+ "naturessentineltrunks": {
+  "name": "Nature's sentinel trunks",
+  "page": "Nature's sentinel trunks",
+  "file": "Nature's sentinel trunks.png",
+  "reviewed": true
+ },
+ "naturessentinelbranch": {
+  "name": "Nature's sentinel branch",
+  "page": "Nature's sentinel branch",
+  "file": "Nature's sentinel branch.png",
+  "reviewed": true
+ },
+ "naturessentinelboots": {
+  "name": "Nature's sentinel boots",
+  "page": "Nature's sentinel boots",
+  "file": "Nature's sentinel boots.png",
+  "reviewed": true
+ },
+ "pickaxeoflifeanddeath": {
+  "name": "Pickaxe of Life and Death",
+  "page": "Pickaxe of life and death",
+  "file": "Pickaxe of life and death.png",
+  "reviewed": true
+ },
+ "beaver": {
+  "name": "Beaver",
+  "page": "Beaver",
+  "file": "Beaver.png",
+  "reviewed": true
+ },
+ "artificer": {
+  "name": "Artificer's measure",
+  "page": "Artificer's measure",
+  "file": "Artificer's measure.png",
+  "reviewed": true
+ },
+ "volcanictrapperchest": {
+  "name": "Volcanic trapper chest",
+  "page": "Volcanic trapper chest",
+  "file": "Volcanic trapper chest.png",
+  "reviewed": true
+ },
+ "volcanictrapperlegguards": {
+  "name": "Volcanic trapper legguards",
+  "page": "Volcanic trapper legguards",
+  "file": "Volcanic trapper legguards.png",
+  "reviewed": true
+ },
+ "volcanictrapperarms": {
+  "name": "Volcanic trapper arms",
+  "page": "Volcanic trapper arms",
+  "file": "Volcanic trapper arms.png",
+  "reviewed": true
+ },
+ "volcanictrapperboots": {
+  "name": "Volcanic trapper boots",
+  "page": "Volcanic trapper boots",
+  "file": "Volcanic trapper boots.png",
+  "reviewed": true
+ },
+ "magicgolemtorso": {
+  "name": "Magic golem torso",
+  "page": "Magic golem torso",
+  "file": "Magic golem torso.png",
+  "reviewed": true
+ },
+ "magicgolemlegs": {
+  "name": "Magic golem legs",
+  "page": "Magic golem legs",
+  "file": "Magic golem legs.png",
+  "reviewed": true
+ },
+ "magicgolemgloves": {
+  "name": "Magic golem gloves",
+  "page": "Magic golem gloves",
+  "file": "Magic golem gloves.png",
+  "reviewed": true
+ },
+ "magicgolemboots": {
+  "name": "Magic golem boots",
+  "page": "Magic golem boots",
+  "file": "Magic golem boots.png",
+  "reviewed": true
+ },
+ "gargoyle": {
+  "name": "Gargoyle",
+  "page": "Gargoyle",
+  "file": "Gargoyle.png",
+  "reviewed": true
+ },
+ "furysharkbody": {
+  "name": "Fury shark body",
+  "page": "Fury shark body",
+  "file": "Fury shark body.png",
+  "reviewed": true
+ },
+ "furysharklegs": {
+  "name": "Fury shark legs",
+  "page": "Fury shark legs",
+  "file": "Fury shark legs.png",
+  "reviewed": true
+ },
+ "furysharkgloves": {
+  "name": "Fury shark hands",
+  "page": "Fury shark hands",
+  "file": "Fury shark hands.png",
+  "reviewed": true
+ },
+ "furysharkboots": {
+  "name": "Fury shark feet",
+  "page": "Fury shark feet",
+  "file": "Fury shark feet.png",
+  "reviewed": true
+ },
+ "masterconstructorsboots": {
+  "name": "Master constructor's boots",
+  "page": "Master constructor's boots",
+  "file": "Master constructor's boots.png",
+  "reviewed": true
+ },
+ "splinteringarrowtip1": {
+  "name": "Splintering arrow tips",
+  "page": "Splintering arrow tips",
+  "file": "Splintering arrow tips.png",
+  "reviewed": true
+ },
+ "masterconstructorjacket": {
+  "name": "Master constructor's jacket",
+  "page": "Master constructor's jacket",
+  "file": "Master constructor's jacket.png",
+  "reviewed": true
+ },
+ "masterconstructorgloves": {
+  "name": "Master constructor's gloves",
+  "page": "Master constructor's gloves",
+  "file": "Master constructor's gloves.png",
+  "reviewed": true
+ },
+ "masterconstructortrousers": {
+  "name": "Master constructor's trousers",
+  "page": "Master constructor's trousers",
+  "file": "Master constructor's trousers.png",
+  "reviewed": true
+ },
+ "deathsporearrowtips1": {
+  "name": "Deathspore arrow tips",
+  "page": "Deathspore arrow tips",
+  "file": "Deathspore arrow tips.png",
+  "reviewed": true
+ },
+ "fungalsporesoup": {
+  "name": "Fungal spore soup",
+  "page": "Fungal spore soup",
+  "file": "Fungal spore soup.png",
+  "reviewed": true
+ },
+ "fungaalgaesoup": {
+  "name": "Fungal algae soup",
+  "page": "Fungal algae soup",
+  "file": "Fungal algae soup.png",
+  "reviewed": true
+ },
+ "timberfungussoup": {
+  "name": "Timber fungus soup",
+  "page": "Timber fungus soup",
+  "file": "Timber fungus soup.png",
+  "reviewed": true
+ },
+ "calcifiedfungussoup": {
+  "name": "Calcified fungus soup",
+  "page": "Calcified fungus soup",
+  "file": "Calcified fungus soup.png",
+  "reviewed": true
+ },
+ "overload1": {
+  "name": "Overload (1)",
+  "page": "Overload",
+  "file": "Overload.png",
+  "reviewed": true
+ },
+ "feats1": {
+  "name": "Powerburst of feats (1)",
+  "page": "Powerburst of feats",
+  "file": "Powerburst of feats.png",
+  "reviewed": true
+ },
+ "mwboots": {
+  "name": "Masterwork boots",
+  "page": "Masterwork melee boots",
+  "file": "Masterwork melee boots.png",
+  "reviewed": true
+ },
+ "1knote": {
+  "name": "Magic notepaper (stack)",
+  "page": "Magic notepaper",
+  "file": "Magic notepaper.png",
+  "reviewed": true
+ },
+ "fremmyboots": {
+  "name": "Fremennik sea boots 4",
+  "page": "Fremennik sea boots 4",
+  "file": "Fremennik sea boots 4.png",
+  "reviewed": true
+ },
+ "2mines": {
+  "name": "Dominion mines (stack)",
+  "page": "Dominion mine",
+  "file": "Dominion mine.png",
+  "reviewed": true
+ },
+ "edracolichcoif": {
+  "name": "Elite Dracolich Coif",
+  "page": "Elite Dracolich coif",
+  "file": "Elite Dracolich coif.png",
+  "reviewed": true
+ },
+ "eofblue": {
+  "name": "EoF (blue)",
+  "page": "Essence of Finality amulet",
+  "file": "Essence of Finality amulet.png",
+  "reviewed": true
+ },
+ "edracolichchaps": {
+  "name": "Elite Dracolich Chaps",
+  "page": "Elite Dracolich chaps",
+  "file": "Elite Dracolich chaps.png",
+  "reviewed": true
+ },
+ "luckyed2": {
+  "name": "Lucky Charm (Dragonkin Laboratory)",
+  "page": "Lucky charm (Dragonkin Laboratory)",
+  "file": "Lucky charm (Dragonkin Laboratory).png",
+  "reviewed": true
+ },
+ "20mines": {
+  "name": "20mines",
+  "page": "Dominion mine",
+  "file": "Dominion mine.png",
+  "reviewed": true
+ },
+ "ripperscrolls": {
+  "name": "Ripper Demon scroll (Death From Above)",
+  "page": "Ripper Demon scroll (Death From Above)",
+  "file": "Ripper Demon scroll (Death From Above).png",
+  "reviewed": true
+ },
+ "sticky": {
+  "name": "Sticky bombs",
+  "page": "Sticky bomb",
+  "file": "Sticky bomb.png",
+  "reviewed": true
+ },
+ "ruby": {
+  "name": "ruby",
+  "page": "Ruby",
+  "file": "Ruby.png",
+  "reviewed": true
+ },
+ "emerald": {
+  "name": "emerald",
+  "page": "Emerald",
+  "file": "Emerald.png",
+  "reviewed": true
+ },
+ "obbytop": {
+  "name": "Obsidian platebody",
+  "page": "Obsidian platebody",
+  "file": "Obsidian platebody.png",
+  "reviewed": true
+ },
+ "obbylegs": {
+  "name": "Obsidian platelegs",
+  "page": "Obsidian platelegs",
+  "file": "Obsidian platelegs.png",
+  "reviewed": true
+ },
+ "obbygloves": {
+  "name": "Obsidian gloves",
+  "page": "Obsidian gloves",
+  "file": "Obsidian gloves.png",
+  "reviewed": true
+ },
+ "obbyboots": {
+  "name": "Obsidian boots",
+  "page": "Obsidian boots",
+  "file": "Obsidian boots.png",
+  "reviewed": true
+ },
+ "shield": {
+  "name": "Shield",
+  "page": "Shield",
+  "file": "Shield icon.png",
+  "reviewed": true
+ },
+ "rocktail": {
+  "name": "Rocktail",
+  "page": "Rocktail",
+  "file": "Rocktail.png",
+  "reviewed": true
+ },
+ "lotdrelic": {
+  "name": "Luck of the Dwarves (Relic)",
+  "page": "Luck of the Dwarves",
+  "file": "Luck of the Dwarves.png",
+  "reviewed": true
+ },
+ "spiritsticks100": {
+  "name": "Spirit weed incense sticks (stack of 100)",
+  "page": "Spirit weed incense sticks",
+  "file": "Spirit weed incense sticks.png",
+  "reviewed": true
+ },
+ "hellhoundscrolls500": {
+  "name": "Hellhound scroll (Soul Food) (stack)",
+  "page": "Hellhound scroll (Soul Food)",
+  "file": "Hellhound scroll (Soul Food).png",
+  "reviewed": true
+ },
+ "divinechargestack": {
+  "name": "Divine charge (stack)",
+  "page": "Divine charge",
+  "file": "Divine charge.png",
+  "reviewed": true
+ },
+ "kalgscrolls500": {
+  "name": "Kal'gerion Demon scroll (Crit-i-Kal) (stack of 500)",
+  "page": "Kal'gerion Demon scroll (Crit-i-Kal)",
+  "file": "Kal'gerion Demon scroll (Crit-i-Kal).png",
+  "reviewed": true
+ },
+ "mammothscrolls": {
+  "name": "Pack Mammoth scroll (Mammoth Feast)",
+  "page": "Pack Mammoth scroll (Mammoth Feast)",
+  "file": "Pack Mammoth scroll (Mammoth Feast).png",
+  "reviewed": true
+ },
+ "grimpage10": {
+  "name": "Torn grimoire page (stack)",
+  "page": "Torn grimoire page",
+  "file": "Torn grimoire page.png",
+  "reviewed": true
+ },
+ "archaeologyjournal": {
+  "name": "Archaeology journal",
+  "page": "Archaeology journal",
+  "file": "Archaeology journal.png",
+  "reviewed": true
+ },
+ "mhslot": {
+  "name": "Mainhand slot",
+  "page": null,
+  "file": null,
+  "reviewed": true
+ },
+ "ohslot": {
+  "name": "Off-hand slot",
+  "page": "Off-hand slot",
+  "file": "Off-hand slot.png",
+  "reviewed": true
+ },
+ "explorersring3": {
+  "name": "Explorer's ring 3",
+  "page": "Explorer's ring 3",
+  "file": "Explorer's ring 3.png",
+  "reviewed": true
+ },
+ "davesspellbook": {
+  "name": "Dave's spellbook",
+  "page": "Dave's spellbook",
+  "file": "Dave's spellbook.png",
+  "reviewed": true
+ },
+ "cluebag": {
+  "name": "Charos' clue carrier",
+  "page": "Charos' clue carrier",
+  "file": "Charos' clue carrier.png",
+  "reviewed": true
+ },
+ "ringofduelling": {
+  "name": "Ring of duelling",
+  "page": "Ring of duelling",
+  "file": "Ring of duelling.png",
+  "reviewed": true
+ },
+ "gamesnecklace": {
+  "name": "Games necklace",
+  "page": "Games necklace",
+  "file": "Games necklace.png",
+  "reviewed": true
+ },
+ "enlightenedamulet": {
+  "name": "Enlightened amulet",
+  "page": "Enlightened amulet",
+  "file": "Enlightened amulet.png",
+  "reviewed": true
+ },
+ "spade": {
+  "name": "Spade",
+  "page": "Spade",
+  "file": "Spade.png",
+  "reviewed": true
+ },
+ "skillsnecklace": {
+  "name": "Skills necklace",
+  "page": "Skills necklace",
+  "file": "Skills necklace.png",
+  "reviewed": true
+ },
+ "combatbracelet": {
+  "name": "Combat bracelet",
+  "page": "Combat bracelet",
+  "file": "Combat bracelet.png",
+  "reviewed": true
+ },
+ "travellersnecklace": {
+  "name": "Traveller's Necklace",
+  "page": "Traveller's necklace",
+  "file": "Traveller's necklace.png",
+  "reviewed": true
+ },
+ "ringofrespawn": {
+  "name": "Ring of respawn",
+  "page": "Ring of respawn",
+  "file": "Ring of respawn.png",
+  "reviewed": true
+ },
+ "skullsceptre": {
+  "name": "Skull sceptre",
+  "page": "Skull sceptre",
+  "file": "Skull sceptre.png",
+  "reviewed": true
+ },
+ "arcjournal": {
+  "name": "Arc journal",
+  "page": "Arc journal",
+  "file": "Arc journal.png",
+  "reviewed": true
+ },
+ "diskofreturning": {
+  "name": "Disk of returning",
+  "page": "Disk of returning",
+  "file": "Disk of returning.png",
+  "reviewed": true
+ },
+ "dramenstaff": {
+  "name": "Dramen staff",
+  "page": "Dramen staff",
+  "file": "Dramen staff.png",
+  "reviewed": true
+ },
+ "invitationbox": {
+  "name": "Invitation box",
+  "page": "Invitation box",
+  "file": "Invitation box.png",
+  "reviewed": true
+ },
+ "earthrune1k": {
+  "name": "Earth rune (stack)",
+  "page": "Earth rune",
+  "file": "Earth rune.png",
+  "reviewed": true
+ },
+ "waterrune1k": {
+  "name": "Water rune (stack)",
+  "page": "Water rune",
+  "file": "Water rune.png",
+  "reviewed": true
+ },
+ "firerune10k": {
+  "name": "Fire rune (stack)",
+  "page": "Fire rune",
+  "file": "Fire rune.png",
+  "reviewed": true
+ },
+ "lawrune100": {
+  "name": "Law rune (stack)",
+  "page": "Law rune",
+  "file": "Law rune.png",
+  "reviewed": true
+ },
+ "lantadymeincensesticks100": {
+  "name": "Lantadyme incense sticks (stack)",
+  "page": "Lantadyme incense sticks",
+  "file": "Lantadyme incense sticks.png",
+  "reviewed": true
+ },
+ "smokedevilscroll5000": {
+  "name": "Smoke Devil scroll (Dust Cloud) (stack)",
+  "page": "Smoke Devil scroll (Dust Cloud)",
+  "file": "Smoke Devil scroll (Dust Cloud).png",
+  "reviewed": true
+ },
+ "eofblueunorn": {
+  "name": "EoF (blue)",
+  "page": "Essence of Finality amulet",
+  "file": "Essence of Finality amulet.png",
+  "reviewed": true
+ },
+ "eofgreenunorn": {
+  "name": "EoF (green)",
+  "page": "Essence of Finality amulet",
+  "file": "Essence of Finality amulet.png",
+  "reviewed": true
+ },
+ "superiorskeletalhelm": {
+  "name": "Superior skeletal helm",
+  "page": "Superior skeletal helm",
+  "file": "Superior skeletal helm.png",
+  "reviewed": true
+ },
+ "superiorskeletaltop": {
+  "name": "Superior skeletal top",
+  "page": "Superior skeletal top",
+  "file": "Superior skeletal top.png",
+  "reviewed": true
+ },
+ "superiorskeletalbottoms": {
+  "name": "Superior skeletal bottoms",
+  "page": "Superior skeletal bottoms",
+  "file": "Superior skeletal bottoms.png",
+  "reviewed": true
+ },
+ "superiorskeletalgloves": {
+  "name": "Superior skeletal gloves",
+  "page": "Superior skeletal gloves",
+  "file": "Superior skeletal gloves.png",
+  "reviewed": true
+ },
+ "superiorskeletalboots": {
+  "name": "Superior skeletal boots",
+  "page": "Superior skeletal boots",
+  "file": "Superior skeletal boots.png",
+  "reviewed": true
+ },
+ "antipsn++": {
+  "name": "Antipoison++",
+  "page": "Antipoison++",
+  "file": "Antipoison++.png",
+  "reviewed": true
+ },
+ "superiorrockshellhelm": {
+  "name": "Superior rock-shell helm",
+  "page": "Superior rock-shell helm",
+  "file": "Superior rock-shell helm.png",
+  "reviewed": true
+ },
+ "superiorrockshellplate": {
+  "name": "Superior rock-shell plate",
+  "page": "Superior rock-shell plate",
+  "file": "Superior rock-shell plate.png",
+  "reviewed": true
+ },
+ "superiorrockshelllegs": {
+  "name": "Superior rock-shell legs",
+  "page": "Superior rock-shell legs",
+  "file": "Superior rock-shell legs.png",
+  "reviewed": true
+ },
+ "superiorrockshellboots": {
+  "name": "Superior rock-shell boots",
+  "page": "Superior rock-shell boots",
+  "file": "Superior rock-shell boots.png",
+  "reviewed": true
+ },
+ "extattack": {
+  "name": "Extreme attack (4)",
+  "page": "Extreme attack",
+  "file": "Extreme attack.png",
+  "reviewed": true
+ },
+ "eofgreen": {
+  "name": "EoF (green)",
+  "page": "Essence of Finality amulet",
+  "file": "Essence of Finality amulet.png",
+  "reviewed": true
+ },
+ "supremerangingpotion6": {
+  "name": "Supreme ranging potion (6)",
+  "page": "Supreme ranging potion",
+  "file": "Supreme ranging potion.png",
+  "reviewed": true
+ },
+ "zammygodbook2": {
+  "name": "Book of chaos",
+  "page": "Zamorak's Book of Chaos",
+  "file": "Zamorak's Book of Chaos.png",
+  "reviewed": true
+ },
+ "ascshard": {
+  "name": "Ascension shard",
+  "page": "Ascension shard",
+  "file": "Ascension shard.png",
+  "reviewed": true
+ },
+ "bindingcontract200": {
+  "name": "Binding contract (stack of 200)",
+  "page": "Binding contract",
+  "file": "Binding contract.png",
+  "reviewed": true
+ },
+ "enhancedblastdiff": {
+  "name": "Enhanced blast diffusion boots",
+  "page": "Enhanced blast diffusion boots",
+  "file": "Enhanced blast diffusion boots.png",
+  "reviewed": true
+ },
+ "sbrew": {
+  "name": "Super Saradomin brew flask (6)",
+  "page": "Super Saradomin brew flask",
+  "file": "Super Saradomin brew flask.png",
+  "reviewed": true
+ },
+ "elements": {
+  "name": "Scrimshaw of Elements",
+  "page": "Scrimshaw of the elements",
+  "file": "Scrimshaw of the elements.png",
+  "reviewed": true
+ },
+ "reaper": {
+  "name": "reaper",
+  "page": "Reaper necklace",
+  "file": "Reaper necklace.png",
+  "reviewed": true
+ },
+ "mwgloves": {
+  "name": "Masterwork gloves",
+  "page": "Masterwork melee gloves",
+  "file": "Masterwork melee gloves.png",
+  "reviewed": true
+ },
+ "driderlance": {
+  "name": "Dragon Rider Lance",
+  "page": "Dragon Rider lance",
+  "file": "Dragon Rider lance.png",
+  "reviewed": true
+ },
+ "shardofzaros": {
+  "name": "Shard of Zaros",
+  "page": "Shard of Zaros",
+  "file": "Shard of Zaros.png",
+  "reviewed": true
+ },
+ "zambrew4": {
+  "name": "Zamorak brew (4)",
+  "page": "Zamorak brew",
+  "file": "Zamorak brew.png",
+  "reviewed": true
+ },
+ "armaboots": {
+  "name": "Armadyl boots",
+  "page": "Armadyl boots",
+  "file": "Armadyl boots.png",
+  "reviewed": true
+ },
+ "eofpinkunorn": {
+  "name": "EoF (pink)",
+  "page": "Essence of Finality amulet",
+  "file": "Essence of Finality amulet.png",
+  "reviewed": true
+ },
+ "penanceaspect": {
+  "name": "Penance (aspect)",
+  "page": "Penance",
+  "file": "Penance.png",
+  "reviewed": true
+ },
+ "enhancedfleet": {
+  "name": "Enhanced fleeting boots",
+  "page": "Enhanced fleeting boots",
+  "file": "Enhanced fleeting boots.png",
+  "reviewed": true
+ },
+ "barrowstotems": {
+  "name": "Barrows totems",
+  "page": "Barrows totem",
+  "file": "Barrows totem.png",
+  "reviewed": true
+ },
+ "lengohbarrows": {
+  "name": "Dark Sliver of Leng (Barrows)",
+  "page": "Dark Sliver of Leng (Barrows)",
+  "file": "Dark Sliver of Leng (Barrows).png",
+  "reviewed": true
+ },
+ "nips": {
+  "name": "Dreadnip (stack)",
+  "page": "Dreadnip",
+  "file": "Dreadnip.png",
+  "reviewed": true
+ },
+ "supersara": {
+  "name": "Super saradomin Brew",
+  "page": "Super Saradomin brew",
+  "file": "Super Saradomin brew.png",
+  "reviewed": true
+ },
+ "aggro6": {
+  "name": "Aggression flask (6)",
+  "page": "Aggression flask",
+  "file": "Aggression flask.png",
+  "reviewed": true
+ },
+ "mageblood": {
+  "name": "mageblood",
+  "page": null,
+  "file": null,
+  "reviewed": true
+ },
+ "dragonkinlaboratoryteleport": {
+  "name": "Dragonkin Laboratory teleport",
+  "page": "Dragonkin Laboratory teleport",
+  "file": "Dragonkin Laboratory teleport.png",
+  "reviewed": true
+ },
+ "reaverscrolls500": {
+  "name": "Blood Reaver scroll (Blood Siphon) (stack)",
+  "page": "Blood Reaver scroll (Blood Siphon)",
+  "file": "Blood Reaver scroll (Blood Siphon).png",
+  "reviewed": true
+ },
+ "xpcapacitor5000charging": {
+  "name": "XP Capacitor 5000 (Charging)",
+  "page": "XP Capacitor 5000",
+  "file": "XP Capacitor 5000.png",
+  "reviewed": true
+ },
+ "menaphostablet": {
+  "name": "Menaphos tablet",
+  "page": "Menaphos tablet",
+  "file": "Menaphos tablet.png",
+  "reviewed": true
+ },
+ "aggro4": {
+  "name": "Aggression potion (4)",
+  "page": "Aggression potion",
+  "file": "Aggression potion.png",
+  "reviewed": true
+ },
+ "enhancedlacs": {
+  "name": "Enhanced laceration boots",
+  "page": "Enhanced laceration boots",
+  "file": "Enhanced laceration boots.png",
+  "reviewed": true
+ },
+ "slayercape": {
+  "name": "Slayer cape (t)",
+  "page": "Slayer cape",
+  "file": "Slayer cape.png",
+  "reviewed": true
+ },
+ "dungeoneeringcape": {
+  "name": "Dungeoneering cape (t)",
+  "page": "Dungeoneering cape",
+  "file": "Dungeoneering cape.png",
+  "reviewed": true
+ },
+ "kalgscrolls100": {
+  "name": "Kal'gerion Demon scroll (Crit-i-Kal) (stack of 100)",
+  "page": "Kal'gerion Demon scroll (Crit-i-Kal)",
+  "file": "Kal'gerion Demon scroll (Crit-i-Kal).png",
+  "reviewed": true
+ },
+ "fellstalkincensesticks100": {
+  "name": "Fellstalk incense sticks (stack)",
+  "page": "Fellstalk incense sticks",
+  "file": "Fellstalk incense sticks.png",
+  "reviewed": true
+ },
+ "karamjagloves4": {
+  "name": "Karamja gloves 4",
+  "page": "Karamja gloves 4",
+  "file": "Karamja gloves 4.png",
+  "reviewed": true
+ },
+ "ushabti5": {
+  "name": "Ushabti (stack)",
+  "page": "Ushabti",
+  "file": "Ushabti.png",
+  "reviewed": true
+ },
+ "wilderpie": {
+  "name": "Wilder pie",
+  "page": "Wilder pie",
+  "file": "Wilder pie.png",
+  "reviewed": true
+ },
+ "iritincensesticks100": {
+  "name": "Irit incense sticks (stack)",
+  "page": "Irit incense sticks",
+  "file": "Irit incense sticks.png",
+  "reviewed": true
+ },
+ "headhunterssacrifice": {
+  "name": "Headhunter's sacrifice",
+  "page": "Headhunter's sacrifice",
+  "file": "Headhunter's sacrifice.png",
+  "reviewed": true
+ },
+ "bunyippouch": {
+  "name": "Bunyip",
+  "page": "Bunyip",
+  "file": "Bunyip.png",
+  "reviewed": true
+ },
+ "artificier": {
+  "name": "artificier",
+  "page": "Artificer's measure",
+  "file": "Artificer's measure.png",
+  "reviewed": true
+ },
+ "4mines": {
+  "name": "Dominion mines (stack of 4)",
+  "page": "Dominion mine",
+  "file": "Dominion mine.png",
+  "reviewed": true
+ },
+ "eofblueu": {
+  "name": "EoF (blue)",
+  "page": "Essence of Finality amulet",
+  "file": "Essence of Finality amulet.png",
+  "reviewed": true
+ },
+ "eofredu": {
+  "name": "EoF (red)",
+  "page": "Essence of Finality amulet",
+  "file": "Essence of Finality amulet.png",
+  "reviewed": true
+ },
+ "eofgreenu": {
+  "name": "EoF (green)",
+  "page": "Essence of Finality amulet",
+  "file": "Essence of Finality amulet.png",
+  "reviewed": true
+ },
+ "eofpinku": {
+  "name": "EoF (pink)",
+  "page": "Essence of Finality amulet",
+  "file": "Essence of Finality amulet.png",
+  "reviewed": true
+ },
+ "minesstack4": {
+  "name": "Dominion mines (stack of 4)",
+  "page": "Dominion mine",
+  "file": "Dominion mine.png",
+  "reviewed": true
+ },
+ "sparkenhancers": {
+  "name": "Vital spark drop enhancer (stack)",
+  "page": "Vital spark drop enhancer",
+  "file": "Vital spark drop enhancer.png",
+  "reviewed": true
+ },
+ "luckyed3": {
+  "name": "Lucky Charm (Shadow Reef)",
+  "page": "Lucky charm (Shadow Reef)",
+  "file": "Lucky charm (Shadow Reef).png",
+  "reviewed": true
+ },
+ "wenarrow": {
+  "name": "wenarrow",
+  "page": "Wen arrow",
+  "file": null,
+  "reviewed": true
+ },
+ "achtomask": {
+  "name": "Achto Primeval mask",
+  "page": "Achto Primeval mask",
+  "file": "Achto Primeval mask.png",
+  "reviewed": true
+ },
+ "achtobottom": {
+  "name": "Achto Primeval robe legs",
+  "page": "Achto Primeval robe legs",
+  "file": "Achto Primeval robe legs.png",
+  "reviewed": true
+ },
+ "masterworkboots": {
+  "name": "Masterwork boots",
+  "page": "Masterwork melee boots",
+  "file": "Masterwork melee boots.png",
+  "reviewed": true
+ },
+ "abyssalspikesstack": {
+  "name": "Abyssal armour spikes (alloy) (stack)",
+  "page": "Abyssal armour spikes (alloy)",
+  "file": "Abyssal armour spikes (alloy).png",
+  "reviewed": true
+ },
+ "occulistring": {
+  "name": "Occulist's Ring",
+  "page": "Occultist's ring",
+  "file": "Occultist's ring.png",
+  "reviewed": true
+ },
+ "ghosthunterlegs": {
+  "name": "Ghost hunter legs",
+  "page": "Ghost hunter legs",
+  "file": "Ghost hunter legs.png",
+  "reviewed": true
+ },
+ "eofpinkor": {
+  "name": "EoF (or)(pink)",
+  "page": "Essence of Finality amulet (or)",
+  "file": "Essence of Finality amulet (or).png",
+  "reviewed": true
+ },
+ "eoforgreen": {
+  "name": "EoF (or)(green)",
+  "page": "Essence of Finality amulet (or)",
+  "file": "Essence of Finality amulet (or).png",
+  "reviewed": true
+ },
+ "kalgscrollsstack": {
+  "name": "Kal'gerion Demon scroll (Crit-i-Kal) (stack of 100)",
+  "page": "Kal'gerion Demon scroll (Crit-i-Kal)",
+  "file": "Kal'gerion Demon scroll (Crit-i-Kal).png",
+  "reviewed": true
+ },
+ "dustcloudstack": {
+  "name": "Smoke Devil scroll (Dust Cloud) (stack)",
+  "page": "Smoke Devil scroll (Dust Cloud)",
+  "file": "Smoke Devil scroll (Dust Cloud).png",
+  "reviewed": true
+ },
+ "airsurge": {
+  "name": "Surge (air)",
+  "page": null,
+  "file": null,
+  "reviewed": true
+ },
+ "charmingflask": {
+  "name": "Charming potion flask (6)",
+  "page": "Charming potion flask",
+  "file": "Charming potion flask.png",
+  "reviewed": true
+ },
+ "enchantedlyre": {
+  "name": "Enchanted lyre",
+  "page": "Enchanted lyre",
+  "file": "Enchanted lyre.png",
+  "reviewed": true
+ },
+ "eofpurpleu": {
+  "name": "EoF (purple)",
+  "page": "Essence of Finality amulet",
+  "file": "Essence of Finality amulet.png",
+  "reviewed": true
+ },
+ "scytheice": {
+  "name": "Noxious scythe (ice)",
+  "page": "Noxious scythe (ice)",
+  "file": "Noxious scythe (ice).png",
+  "reviewed": true
+ },
+ "eoforyellow": {
+  "name": "EoF (or)(yellow)",
+  "page": "Essence of Finality amulet (or)",
+  "file": "Essence of Finality amulet (or).png",
+  "reviewed": true
+ },
+ "gembag": {
+  "name": "Gem bag (upgraded)",
+  "page": "Gem bag (upgraded)",
+  "file": "Gem bag (upgraded).png",
+  "reviewed": true
+ },
+ "torstolincensestick": {
+  "name": "Torstol incense stick",
+  "page": "Torstol incense sticks",
+  "file": "Torstol incense sticks.png",
+  "reviewed": true
+ },
+ "mechchins": {
+  "name": "Mechanised chinchompa (stack)",
+  "page": "Mechanised chinchompa",
+  "file": "Mechanised chinchompa.png",
+  "reviewed": true
+ },
+ "powderofprotectionstack": {
+  "name": "Powder of protection (stack)",
+  "page": "Powder of protection",
+  "file": "Powder of protection.png",
+  "reviewed": true
+ },
+ "wildernesssword1": {
+  "name": "Wilderness Sword 1",
+  "page": "Wilderness sword 1",
+  "file": "Wilderness sword 1.png",
+  "reviewed": true
+ },
+ "torstolincensesticks": {
+  "name": "Torstol incense sticks (stack)",
+  "page": "Torstol incense sticks",
+  "file": "Torstol incense sticks.png",
+  "reviewed": true
+ },
+ "strengthcape": {
+  "name": "Strength cape (t)",
+  "page": "Strength cape",
+  "file": "Strength cape.png",
+  "reviewed": true
+ },
+ "babyplatypus": {
+  "name": "Baby platypus",
+  "page": "Platypus",
+  "file": "Platypus.png",
+  "reviewed": true
+ },
+ "platypus": {
+  "name": "Platypus",
+  "page": "Platypus",
+  "file": "Platypus.png",
+  "reviewed": true
+ },
+ "onyxbakristack": {
+  "name": "Onyx bakriminel bolts (e) (stack)",
+  "page": "Onyx bakriminel bolts (e)",
+  "file": "Onyx bakriminel bolts (e).png",
+  "reviewed": true
+ },
+ "reaverscrollsstack": {
+  "name": "Blood Reaver scroll (Blood Siphon) (stack)",
+  "page": "Blood Reaver scroll (Blood Siphon)",
+  "file": "Blood Reaver scroll (Blood Siphon).png",
+  "reviewed": true
+ },
+ "wildcardsstack": {
+  "name": "Slayer Wildcard (stack)",
+  "page": "Slayer Wildcard",
+  "file": "Slayer Wildcard.png",
+  "reviewed": true
+ },
+ "bluedhidecoif": {
+  "name": "Blue dragonhide coif",
+  "page": "Blue dragonhide coif",
+  "file": "Blue dragonhide coif.png",
+  "reviewed": true
+ },
+ "fellstalksticks100": {
+  "name": "Fellstalk incense sticks (stack)",
+  "page": "Fellstalk incense sticks",
+  "file": "Fellstalk incense sticks.png",
+  "reviewed": true
+ },
+ "questcape": {
+  "name": "Quest cape",
+  "page": "Quest Cape",
+  "file": "Quest Cape.png",
+  "reviewed": true
+ },
+ "ushabtistack": {
+  "name": "Ushabti (stack)",
+  "page": "Ushabti",
+  "file": "Ushabti.png",
+  "reviewed": true
+ },
+ "extremeantisanguineflask": {
+  "name": "Extreme antisanguine flask",
+  "page": "Extreme antisanguine flask",
+  "file": "Extreme antisanguine flask (6).png",
+  "reviewed": true
+ },
+ "maatfeathers1k": {
+  "name": "Feather of Ma'at",
+  "page": "Feather of Ma'at",
+  "file": "Feather of Ma'at.png",
+  "reviewed": true
+ },
+ "sophanemdungeonteleport": {
+  "name": "Sophanem Dungeon teleport",
+  "page": "Sophanem Slayer Dungeon teleport",
+  "file": "Sophanem Slayer Dungeon teleport.png",
+  "reviewed": true
+ },
+ "whetstone": {
+  "name": "Whetstone",
+  "page": "Whetstone",
+  "file": "Whetstone.png",
+  "reviewed": true
+ },
+ "superiordragonriderboots": {
+  "name": "Superior Dragon Rider boots",
+  "page": "Superior Dragon Rider boots",
+  "file": "Superior Dragon Rider boots.png",
+  "reviewed": true
+ },
+ "fularrowstack": {
+  "name": "Ful arrows (stack)",
+  "page": "Ful arrow",
+  "file": "Ful arrow.png",
+  "reviewed": true
+ },
+ "easternanachroniateleport": {
+  "name": "Eastern anachronia teleport (item)",
+  "page": "Eastern anachronia teleport (item)",
+  "file": "Eastern anachronia teleport (item).png",
+  "reviewed": true
+ },
+ "morytanialegs4": {
+  "name": "Morytania legs 4",
+  "page": "Morytania legs 4",
+  "file": "Morytania legs 4.png",
+  "reviewed": true
+ },
+ "ringofvitur": {
+  "name": "Ring of Vitur",
+  "page": "Ring of Vitur",
+  "file": "Ring of Vitur.png",
+  "reviewed": true
+ },
+ "achtoteralithbody": {
+  "name": "Achto Teralith body",
+  "page": "Achto Teralith cuirass",
+  "file": "Achto Teralith cuirass.png",
+  "reviewed": true
+ },
+ "minesstack": {
+  "name": "Dominion mines (stack)",
+  "page": "Dominion mine",
+  "file": "Dominion mine.png",
+  "reviewed": true
+ },
+ "mhbd": {
+  "name": "Melee Mainhand",
+  "page": null,
+  "file": null,
+  "reviewed": true
+ },
+ "ed3luckycharm": {
+  "name": "Lucky Charm (Shadow Reef)",
+  "page": "Lucky charm (Shadow Reef)",
+  "file": "Lucky charm (Shadow Reef).png",
+  "reviewed": true
+ },
+ "stickyfingers": {
+  "name": "Sticky Fingers",
+  "page": "Sticky Fingers",
+  "file": "Sticky Fingers.png",
+  "reviewed": true
+ }
+}

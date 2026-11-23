@@ -1,0 +1,20 @@
+{
+ "why": "Preset items whose wiki article has no icon file, or that have no article at all (live parse, 21 Nov). Their slot stays empty in {{Equipment}}/{{Inventory}} and the item is named in the preset notes instead.",
+ "noIcon": [
+  "Ripper Demon",
+  "Vanquish",
+  "Shield",
+  "Mainhand slot",
+  "Mageblood",
+  "Melee Mainhand",
+  "mageblood",
+  "Legendary pet"
+ ],
+ "noArticle": [
+  "Surge (air)",
+  "Mainhand slot",
+  "Mageblood",
+  "Melee Mainhand",
+  "mageblood"
+ ]
+}

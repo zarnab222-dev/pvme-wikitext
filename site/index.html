@@ -1,0 +1,77 @@
+<!doctype html>
+<html lang="en-GB">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>pvme wikitext</title>
+<meta name="description" content="pvme guides, parsed and converted to runescape wiki wikitext">
+<meta property="og:title" content="pvme wikitext">
+<meta property="og:description" content="pvme guides, parsed and converted to runescape wiki wikitext">
+<meta name="theme-color" content="#14181d">
+<meta name="build-commit" content="{{BUILD}}">
+<link rel="icon" href="/favicon.svg" type="image/svg+xml">
+<link rel="stylesheet" href="{{STYLE}}">
+<link rel="preload" href="{{TABLES}}" as="fetch" crossorigin>
+<script type="module" src="{{SCRIPT}}"></script>
+</head>
+<body data-tables="{{TABLES}}" data-presets="{{PRESETS}}">
+<aside id="rail">
+    <header>
+        <h1>pvme wikitext</h1>
+        <p id="origin"></p>
+        <label class="field">find a guide<input id="find" type="search" autocomplete="off"></label>
+    </header>
+    <nav id="guides" aria-label="guides"></nav>
+</aside>
+<main>
+    <header id="bar">
+        <button id="menu" type="button" aria-controls="rail" aria-expanded="false">guides</button>
+        <div id="heading"><h2 id="title">loading</h2><p id="file"></p></div>
+        <div id="actions">
+            <button id="copy" type="button" disabled><span>copy wikitext</span></button>
+            <a id="download" class="button">download</a>
+            <a id="editor" class="button" target="_blank" rel="noopener">open wiki editor</a>
+        </div>
+        <p id="status" role="status"></p>
+    </header>
+    <dl id="counts"></dl>
+    <div id="panes">
+        <section class="pane" data-side="left">
+            <div class="tabs" role="tablist" aria-label="text">
+                <button role="tab" data-view="source">pvme source</button>
+                <button role="tab" data-view="wikitext">wikitext</button>
+                <button role="tab" data-view="tree">parsed</button>
+                <button id="reset" type="button" hidden>reset source</button>
+            </div>
+            <textarea class="view" data-view="source" id="source" spellcheck="false" aria-label="pvme source"></textarea>
+            <textarea class="view" data-view="wikitext" id="wikitext" spellcheck="false" readonly aria-label="wikitext"></textarea>
+            <div class="view scroll" data-view="tree" id="tree"></div>
+        </section>
+        <section class="pane" data-side="right">
+            <div class="tabs" role="tablist" aria-label="result">
+                <button role="tab" data-view="preview">wiki render</button>
+                <button role="tab" data-view="issues">issues <span id="issue-count"></span></button>
+                <button role="tab" data-view="sync">sync</button>
+            </div>
+            <div class="view" data-view="preview" id="preview"><p class="note" id="preview-note"></p><iframe id="render" title="wiki render" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin"></iframe></div>
+            <div class="view scroll" data-view="issues" id="issues"></div>
+            <div class="view scroll" data-view="sync" id="sync">
+                <div class="row">
+                    <label class="field">wiki page the guides live under<input id="root" type="text" autocomplete="off" placeholder="PvME"></label>
+                    <button id="check-page" type="button">check this page</button>
+                    <button id="check-all" type="button">check all</button>
+                </div>
+                <p id="sync-note" class="note" role="status"></p>
+                <div id="sync-result"></div>
+                <details open>
+                    <summary>wiki copy</summary>
+                    <p class="note">Edits here and in the pvme source show how the two sides reconcile. Nothing is saved.</p>
+                    <textarea id="wiki-copy" spellcheck="false" aria-label="wiki copy"></textarea>
+                    <button id="reset-copy" type="button">reset wiki copy</button>
+                </details>
+            </div>
+        </section>
+    </div>
+</main>
+</body>
+</html>

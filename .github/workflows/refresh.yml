@@ -1,0 +1,25 @@
+# Rebuilds the site when pvme-guides has commits the deployed site does not.
+name: Follow pvme-guides
+on:
+  schedule:
+    - cron: '17 */6 * * *'
+  workflow_dispatch:
+permissions: {}
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Rebuild if behind
+        env:
+          SITE: https://pvme-wikitext.vercel.app
+          DEPLOY_HOOK: ${{ secrets.VERCEL_DEPLOY_HOOK }}
+        run: |
+          set -euo pipefail
+          latest=$(git ls-remote https://github.com/pvme/pvme-guides refs/heads/master | cut -f1)
+          deployed=$(curl -fsS --retry 3 "$SITE/index.json" | jq -r .source.commit)
+          echo "pvme-guides $latest, deployed $deployed"
+          if [ "$latest" != "$deployed" ]; then
+            curl -fsS -X POST -o /dev/null "$DEPLOY_HOOK"
+            echo "rebuild requested"
+          fi

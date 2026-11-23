@@ -1,0 +1,58 @@
+{
+ "_why": "PvME emoji ids used in preset notes that data/emoji.json cannot resolve; checked against runescape.wiki 21 Nov 2026. null drops the emoji where the text already names the thing. Keys starting with : are bare Discord shortcodes; the value is the wikitext to use (null drops it).",
+ "712073087507628035": {
+  "name": "Enhanced Devoted",
+  "page": "Enhanced Devoted",
+  "file": "Enhanced Devoted.png"
+ },
+ "689502927731163170": {
+  "name": "Dragon Slayer",
+  "page": "Dragon Slayer",
+  "file": "Dragon Slayer.png"
+ },
+ "848803118706720798": {
+  "name": "Impatient",
+  "page": "Impatient",
+  "file": "Impatient.png"
+ },
+ "944649693500154006": {
+  "name": "poison",
+  "page": "Poison",
+  "file": "Poison hitsplat.png"
+ },
+ "938475261366784070": {
+  "name": "Prism of Restoration",
+  "page": "Prism of Restoration",
+  "file": "Prism of Restoration icon.png"
+ },
+ "543465115870035999": {
+  "name": "Air Surge",
+  "page": "Air Surge",
+  "file": "Air Surge icon.png"
+ },
+ "535616247807868938": {
+  "name": "Blood Blitz",
+  "page": "Blood Blitz",
+  "file": "Blood Blitz icon.png"
+ },
+ "1022562484378419284": {
+  "name": "Blood Reaver scroll (Blood Siphon)",
+  "page": "Blood Reaver scroll (Blood Siphon)",
+  "file": "Blood Reaver scroll (Blood Siphon).png"
+ },
+ "1280109199069806604": null,
+ ":auratotem:": null,
+ ":elderoverloadsalve:": "{{plink|Elder overload salve}}",
+ ":impatient4:": "[[File:Impatient.png|link=Impatient]]",
+ ":specialattack:": "{{plink|Weapon Special Attack}}",
+ ":deflectmagic:": "{{plink|Deflect Magic}}",
+ ":equilibrium4:": "[[File:Equilibrium.png|link=Equilibrium]]",
+ "1032540079589163049": {
+  "name": "War's Retreat Teleport",
+  "page": "War's Retreat Teleport",
+  "file": "War's Retreat Teleport icon.png"
+ },
+ ":penanceaspect:": "{{plink|Penance|pic=Penance icon}} (aspect)",
+ ":penanceaura:": "{{plink|Penance aura}}",
+ ":tumekenslight:": "{{plink|Tumeken's Light}}"
+}
