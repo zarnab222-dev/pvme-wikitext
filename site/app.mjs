@@ -172,7 +172,7 @@ function scheduleRender() {
 }
 /** The sandboxed render cannot run players, so a video shows as its thumbnail. */
 const stillVideos = html => html.replace(/<iframe[^>]*?youtube(?:-nocookie)?[.]com[/]embed[/]([a-zA-Z0-9_-]{11})[^>]*>(?:<[/]iframe>)?/g,
-    (_, id) => `<a href="https://www.youtube.com/watch?v=${id}"><img src="https://i.ytimg.com/vi/${id}/hqdefault.jpg" alt="video" width="400"></a>`);
+    (_, id) => `<a href="https://www.youtube.com/watch?v=${id}"><img src="https://i.ytimg.com/vi/${id}/mqdefault.jpg" alt="video" width="400"></a>`);
 async function render() {
     const { content } = current;
     $('preview-note').textContent = 'rendering on runescape.wiki…';
