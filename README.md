@@ -110,4 +110,8 @@ build always converts the newest guides. A guide missing from `data/titles.tsv` 
 
 Deploys: Vercel builds every push to `main`. `.github/workflows/refresh.yml` rebuilds when pvme-guides has moved on.
 
-Guide text is by PvME contributors under CC BY-NC-SA 4.0. RuneScape images and names belong to Jagex.
+## Licence
+
+The code is under the [MIT licence](LICENSE). It does not cover PvME's content: guide text is by PvME contributors under
+CC BY-NC-SA 4.0, and preset notes in `data/presets.json` are by their authors. `@pvme/guide-parser` is a separate package with
+no published licence. RuneScape images and names belong to Jagex.

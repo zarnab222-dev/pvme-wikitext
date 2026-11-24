@@ -2,6 +2,7 @@
   "name": "pvme-wikitext",
   "version": "0.1.0",
   "private": true,
+  "license": "MIT",
   "description": "PvME guide text to RuneScape Wiki wikitext, through @pvme/guide-parser",
   "type": "module",
   "engines": {
