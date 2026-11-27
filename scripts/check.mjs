@@ -15,6 +15,10 @@ import { loadData, ROOT } from './load-data.mjs';
 const { values: options } = parseArgs({ options: { wiki: { type: 'boolean' }, only: { type: 'string' }, guides: { type: 'string' } } });
 const { guides, data } = await loadData({ guides: options.guides });
 const selected = guides.filter(guide => guide.slug.includes(options.only ?? ''));
+if (options.only !== undefined && selected.length === 0) {
+    console.error(`No guides matched --only ${JSON.stringify(options.only)}.`);
+    process.exit(1);
+}
 const resolver = createResolver(data);
 
 // ---------- every word, in order ----------
